@@ -1,6 +1,6 @@
 # Lecture notes on Quantum Information Theory
 
-This repository hosts the working draft of the [lecture notes](./qit-notes.pdf) for the 3rd-year
+This repository hosts the working draft of the [lecture notes](./QIT_Notes.pdf) for the 3rd-year
 elective course in Quantum Information Theory at the Physics Department of the
 University of Ioannina (Greece), instructed by Lampros Trifyllis during the spring
 semester of 2025/26.
